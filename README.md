@@ -1,2 +1,5 @@
-# jetsonnano
-Everything and anything around Docker, K3s &amp; Jetson Nano
+# Docker, K3s & Minecraft 
+
+- [Running Minecraft on NVIDIA Jetson Nano using Docker]
+ - [without Persistence]
+ - [with Persistence]

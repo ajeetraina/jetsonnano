@@ -10,9 +10,9 @@ Running Minecraft on NVIDIA Jetson Nano using Docker with persistence
                    -e EULA=true \
                    -e ONLINE_MODE=false \
                    -e DIFFICULTY=hard \
-                   -e OPS=Gurvira3  \
+                   -e OPS=collabnix  \
                    -e MAX_PLAYERS=50 \
-                   -e MOTD="welcome to GurviraWorld" \
+                   -e MOTD="welcome to Collabnix" \
                    -v /tmp/minecraft_data:/data \
                    --name mc 
                    itzg/minecraft-server

@@ -1,7 +1,7 @@
 # Docker, K3s and Jetson Nano
 
 <details><summary>
-[Running Minecraft on NVIDIA Jetson Nano using Docker with persistence]
+Running Minecraft on NVIDIA Jetson Nano using Docker with persistence
  </summary>
  
  ```

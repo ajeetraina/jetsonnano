@@ -53,4 +53,5 @@ sudo -H pip install -U jetson-stats
 
 sudo jtop
 
+![My Image](https://github.com/ajeetraina/jetsonnano/blob/master/images/jtop.png)
 </details>

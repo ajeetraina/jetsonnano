@@ -47,11 +47,15 @@ Running Jtop to see what % of GPU is being consumed
  
 ## Installing Jtop 
  
+```
 sudo -H pip install -U jetson-stats
+```
 
 ## Running the Jtop tool
 
+```
 sudo jtop
+```
 
 ![My Image](https://github.com/ajeetraina/jetsonnano/blob/master/images/jtop.png)
 </details>

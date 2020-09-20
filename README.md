@@ -40,3 +40,17 @@ EST into 1.16.3
 
 
  </details>
+
+<details><summary>
+Running Jtop to see what % of GPU is being consumed
+ </summary>
+ 
+## Installing Jtop 
+ 
+sudo -H pip install -U jetson-stats
+
+## Running the Jtop tool
+
+sudo jtop
+
+</details>
